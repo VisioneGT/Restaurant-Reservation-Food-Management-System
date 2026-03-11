@@ -1,0 +1,26 @@
+item_id,ingredient,unit,quantity_in_stock,minimum_stock,unit_cost,supplier,last_restocked
+1,Chicken Breast,kg,15.5,5,89,Cape Farm Supplies,2024-03-25
+2,Lamb Chops,kg,8.2,3,145,Karoo Meats,2024-03-24
+3,Boerewors,kg,12.0,4,75,Local Butcher,2024-03-25
+4,Kingklip,kg,6.5,2,185,Ocean Fresh,2024-03-23
+5,Springbok,kg,3.0,2,220,Game Suppliers SA,2024-03-20
+6,Beef Mince,kg,10.0,4,65,Cape Farm Supplies,2024-03-25
+7,Flour,kg,25.0,8,12,SA Wholesalers,2024-03-18
+8,Sugar,kg,18.0,5,14,SA Wholesalers,2024-03-18
+9,Butter,kg,8.5,3,95,Dairy Fresh,2024-03-22
+10,Cream,litre,6.0,2,45,Dairy Fresh,2024-03-22
+11,Eggs,units,84,24,4,Local Farm,2024-03-24
+12,Milk,litre,20.0,6,18,Dairy Fresh,2024-03-24
+13,Potatoes,kg,30.0,10,8,Cape Farm Supplies,2024-03-23
+14,Onions,kg,22.0,8,6,Cape Farm Supplies,2024-03-23
+15,Butternut,kg,15.0,5,9,Cape Farm Supplies,2024-03-23
+16,Tomatoes,kg,12.0,4,12,Cape Farm Supplies,2024-03-24
+17,Rooibos Tea,units,120,30,3,Rooibos Co,2024-03-20
+18,Cooking Oil,litre,12.0,4,28,SA Wholesalers,2024-03-18
+19,Bread Rolls,units,48,12,3,Fresh Bake,2024-03-25
+20,Rice,kg,20.0,6,15,SA Wholesalers,2024-03-18
+21,Peri-Peri Sauce,litre,4.5,1.5,65,Nandos Wholesale,2024-03-20
+22,Chakalaka,units,24,8,18,SA Wholesalers,2024-03-18
+23,Coconut Milk,units,18,6,22,SA Wholesalers,2024-03-18
+24,Curry Powder,kg,3.5,1,45,Spice Route,2024-03-15
+25,Vanilla Custard,litre,8.0,2,38,Dairy Fresh,2024-03-22

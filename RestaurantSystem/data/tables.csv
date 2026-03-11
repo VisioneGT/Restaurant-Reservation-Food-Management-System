@@ -1,0 +1,11 @@
+table_id,table_number,capacity,location,status
+1,T01,2,Indoor,Available
+2,T02,3,Indoor,Available
+3,T03,4,Indoor,Available
+4,T04,5,Outdoor,Available
+5,T05,6,Indoor,Available
+6,T06,8,Private Room,Available
+7,T07,2,Outdoor,Available
+8,T08,4,Outdoor,Available
+9,T09,3,Indoor,Available
+10,T10,6,Indoor,Available

@@ -1,0 +1,29 @@
+item_id,name,category,price,description,is_available,is_vegetarian,is_halaal,prep_time_mins
+1,Boerewors Roll,Starters,65,Grilled boerewors in a fresh roll with chakalaka,True,False,False,10
+2,Peri-Peri Chicken Wings,Starters,89,Crispy wings in house peri-peri sauce,True,False,True,15
+3,Samoosas (3 pcs),Starters,55,Beef or vegetable samoosas with mint chutney,True,False,True,10
+4,Butternut Soup,Starters,75,Creamy roasted butternut with crusty bread,True,True,True,12
+5,Grilled Chicken Livers,Starters,72,Peri-peri chicken livers on toast,True,False,True,10
+6,Springbok Carpaccio,Starters,110,Thinly sliced springbok with rocket and parmesan,True,False,False,8
+7,Karoo Lamb Chops,Mains,245,3 grilled lamb chops with roasted vegetables,True,False,True,25
+8,Braai Platter for 2,Mains,380,Mixed boerewors and chicken and ribs with sides,True,False,False,35
+9,Durban Curry,Mains,185,Slow-cooked lamb curry with roti and sambals,True,False,True,30
+10,Grilled Kingklip,Mains,265,Fresh kingklip with lemon butter and chips,True,False,True,20
+11,Vegetable Potjie,Mains,155,Traditional potjie with seasonal vegetables,True,True,True,40
+12,Chicken Schnitzel,Mains,175,Crumbed chicken breast with mushroom sauce,True,False,False,20
+13,Bobotie,Mains,165,Traditional Cape Malay bobotie with yellow rice,True,False,False,25
+14,Pap and Wors,Mains,145,Grilled wors with pap and chakalaka,True,False,False,20
+15,Malva Pudding,Desserts,75,Warm malva pudding with vanilla custard,True,True,True,15
+16,Peppermint Crisp Tart,Desserts,65,Classic South African fridge tart,True,True,True,5
+17,Koeksisters,Desserts,55,Traditional syrup koeksisters (3 pcs),True,True,True,8
+18,Melktert,Desserts,60,Homemade milk tart with cinnamon,True,True,True,5
+19,Chocolate Fondant,Desserts,85,Warm chocolate fondant with ice cream,True,True,True,15
+20,Rooibos Cheesecake,Desserts,80,Baked cheesecake with rooibos glaze,True,True,True,5
+21,Coke 330ml,Drinks,28,Soft drink,True,True,True,2
+22,Appletiser,Drinks,32,Sparkling apple juice,True,True,True,2
+23,Springbok Lager,Drinks,38,Local craft lager,True,False,False,2
+24,Rooibos Iced Tea,Drinks,35,House-brewed rooibos iced tea,True,True,True,5
+25,Mineral Water,Drinks,22,Still or sparkling,True,True,True,2
+26,Mango Juice,Drinks,30,Fresh mango juice,True,True,True,3
+27,House Red Wine (glass),Drinks,65,South African Shiraz,True,False,False,2
+28,House White Wine (glass),Drinks,65,South African Chenin Blanc,True,False,False,2
